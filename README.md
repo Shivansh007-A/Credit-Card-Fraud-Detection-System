@@ -38,5 +38,5 @@ Using Python, Pandas, and NumPy, transaction data was cleaned and transformed to
 The model successfully classified transactions and identified potential fraud cases with an accuracy of approximately 85%, demonstrating the effectiveness of machine learning techniques in financial fraud detection.
 
 ## Machine Learning Code
-<a href="[https://github.com/your-username/Credit-Card-Fraud-Detection](https://github.com/Shivansh007-A/Credit-Card-Fraud-Detection-System/blob/main/credit_card_fraud_detection.ipynb)" target="_blank">
+<a href="https://github.com/Shivansh007-A/Credit-Card-Fraud-Detection-System/blob/main/credit_card_fraud_detection.ipynb">
 View Project Repository
